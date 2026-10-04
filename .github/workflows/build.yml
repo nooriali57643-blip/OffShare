@@ -16,8 +16,6 @@ jobs:
           distribution: temurin
           java-version: 17
 
-      - uses: android-actions/setup-android@v3
-
       - name: Build debug APK
         run: |
           chmod +x gradlew
@@ -26,4 +24,4 @@ jobs:
       - uses: actions/upload-artifact@v4
         with:
           name: OffShare-apk
-          path: app/build/outputs/apk/debug/app-debug.apk این فایل را جوری بده که کوپی بتوانم
+          path: app/build/outputs/apk/debug/app-debug.apk
