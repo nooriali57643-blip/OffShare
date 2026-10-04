@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OffShare</string>
+
+    <string name="create_group">Create Group</string>
+    <string name="join_group">Join Group</string>
+    <string name="back">Back</string>
+
+    <string name="choose_how">How do you want to connect?</string>
+    <string name="scan_qr">Scan QR code</string>
+    <string name="search_group">Search for groups</string>
+    <string name="scan_prompt">Point the camera at the group QR code</string>
+
+    <string name="device_name">Device name</string>
+    <string name="group_name">Group name</string>
+    <string name="rename_hint">You can rename this device and the group</string>
+
+    <string name="group_active">Group is active</string>
+    <string name="scan_to_join">Scan this code on the other phone to join</string>
+    <string name="or_search">Or on the other phone tap Join Group, then Search</string>
+    <string name="connected_devices">Connected devices</string>
+    <string name="no_devices_yet">No devices connected yet</string>
+    <string name="stop_group">Stop group</string>
+
+    <string name="searching">Searching for nearby groups…</string>
+    <string name="no_groups">No groups found yet</string>
+    <string name="keep_close">Keep Wi-Fi, Bluetooth and Location turned on and keep the phones close together.</string>
+    <string name="host_label">Host: %1$s</string>
+    <string name="connect">Connect</string>
+
+    <string name="connecting">Connecting…</string>
+    <string name="connected_to">Connected to %1$s</string>
+    <string name="connection_failed">Connection failed. Please try again.</string>
+    <string name="qr_invalid">This QR code is not from this app</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="permission_needed">Permissions are required to find nearby devices</string>
+</resources>

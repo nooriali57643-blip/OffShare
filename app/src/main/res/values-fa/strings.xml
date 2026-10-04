@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">آف‌شیر</string>
+
+    <string name="create_group">ایجاد گروه</string>
+    <string name="join_group">پیوستن به گروه</string>
+    <string name="back">بازگشت</string>
+
+    <string name="choose_how">چگونه وصل شوید؟</string>
+    <string name="scan_qr">اسکن کد QR</string>
+    <string name="search_group">جستجوی گروه‌ها</string>
+    <string name="scan_prompt">دوربین را روی کد QR گروه بگیرید</string>
+
+    <string name="device_name">نام دستگاه</string>
+    <string name="group_name">نام گروه</string>
+    <string name="rename_hint">می‌توانید نام این دستگاه و گروه را تغییر دهید</string>
+
+    <string name="group_active">گروه فعال است</string>
+    <string name="scan_to_join">این کد را با گوشی دیگر اسکن کنید تا وصل شود</string>
+    <string name="or_search">یا در گوشی دیگر «پیوستن به گروه» و بعد «جستجو» را بزنید</string>
+    <string name="connected_devices">دستگاه‌های وصل‌شده</string>
+    <string name="no_devices_yet">هنوز دستگاهی وصل نشده است</string>
+    <string name="stop_group">بستن گروه</string>
+
+    <string name="searching">در حال جستجوی گروه‌های نزدیک…</string>
+    <string name="no_groups">هنوز گروهی پیدا نشده است</string>
+    <string name="keep_close">وای‌فای، بلوتوث و موقعیت مکانی (Location) را روشن نگه دارید و گوشی‌ها را نزدیک هم بگذارید.</string>
+    <string name="host_label">میزبان: %1$s</string>
+    <string name="connect">اتصال</string>
+
+    <string name="connecting">در حال اتصال…</string>
+    <string name="connected_to">وصل شد به %1$s</string>
+    <string name="connection_failed">اتصال ناموفق بود. دوباره تلاش کنید.</string>
+    <string name="qr_invalid">این کد QR مربوط به این برنامه نیست</string>
+    <string name="disconnect">قطع اتصال</string>
+    <string name="permission_needed">برای پیدا کردن دستگاه‌های نزدیک، اجازه‌های لازم را بدهید</string>
+</resources>
